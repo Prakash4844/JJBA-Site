@@ -50,6 +50,29 @@
   }
  
   /*======================= FRONT_PAGE =======================*/
+  .JOJO-Carousel-img {
+    height: 750px;
+  }
+  
+  .JOJO-Carousel-name {
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+
+  }
+
+  .JOJO-Carousel-info {
+    color: white;
+    text-align: center;
+
+  }
+
+  .JOJO-Carousel-descri {
+    color: white;
+    text-align: center;
+    margin-top: 30px ;
+  }
+
   #Front-page img:hover {
     transform: scale(1.04);
     filter: brightness(.5);

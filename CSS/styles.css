@@ -45,8 +45,8 @@
     padding-left: 300px;
   }
 
-  .nav-link:hover {
-    font-weight:300;
+  .nav-page-sel:hover {
+    font-weight:500;
   }
  
   /*======================= FRONT_PAGE =======================*/
@@ -101,6 +101,7 @@
     text-align: center;
   }
   .card {
+    border: none;
     padding: 10px;
   }
 

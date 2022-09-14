@@ -87,6 +87,11 @@
     width: 230px;
   }
 
+  .pillarmen {
+    display: inline-block;
+    position: absolute;
+  }
+
   /* ===================JOJOs=================== */
 
   .Big_Heading {
@@ -96,6 +101,7 @@
     padding: 10px;
   }
 
+  /* ====================Ability cards================= */
   .card-group {
     padding: 40px;
     text-align: center;
